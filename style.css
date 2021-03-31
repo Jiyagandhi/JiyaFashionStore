@@ -177,6 +177,15 @@ small{
 	color: #fff;
 	margin-bottom: 20px;
 }
+.footer-3 ul li{color:#8a8a8a;}
+.footer-4 ul li{color:#8a8a8a;}
+.footer p{
+	color: #8a8a8a;
+}
+.bullet{
+	list-style-type: disc; 
+}
+
 ul{
 	list-style-type: none; 
 	font-size: 15px;
