@@ -178,6 +178,9 @@ small{
 ul{
 	list-style-type: none; 
 }
+.bullet{
+	list-style-type: circle; 
+}
 .footer hr{
 	border: none;
 	background: #b5b5b5;
