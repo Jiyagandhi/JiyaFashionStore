@@ -179,7 +179,7 @@ ul{
 	list-style-type: none; 
 }
 .bullet{
-	list-style-type: circle; 
+	list-style-type: disc; 
 }
 .footer hr{
 	border: none;
