@@ -326,9 +326,9 @@ body{
 .form form{
 	max-width: 300px;
 	padding: 0 20px;
-	position: relative;
 	top: 130px;
 	transition: transform 1s;
+	
 }
 form input{
 	width: 100%;
