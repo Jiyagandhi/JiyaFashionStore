@@ -353,6 +353,7 @@ form .btn:focus{
 }
 #RegForm{
 	left: 0;
+	top:-100px;
 }
 form a{
 	font-size: 12px;
