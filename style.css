@@ -352,8 +352,7 @@ form .btn:focus{
 	left: -300px
 }
 #RegForm{
-	left: 50;
-	top: 100px;
+	left: 0;
 }
 form a{
 	font-size: 12px;
